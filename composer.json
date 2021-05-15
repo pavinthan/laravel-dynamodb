@@ -1,5 +1,5 @@
 {
-    "name": "brainlk/laravel-dynamodb",
+    "name": "pavinthan/laravel-dynamodb",
     "description": "A DynamoDB based Eloquent model and Query builder for Laravel.",
     "keywords": [
         "laravel",
